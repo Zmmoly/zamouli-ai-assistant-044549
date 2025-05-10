@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">مساعد الذكاء الاصطناعي</string>
+    <string name="message_hint">اكتب رسالتك هنا...</string>
+    <string name="send_button_description">إرسال الرسالة</string>
+    <string name="welcome_message">مرحباً بك في مساعد الذكاء الاصطناعي! كيف يمكنني مساعدتك اليوم؟</string>
+    <string name="loading">جاري التفكير...</string>
+    <string name="error_processing">عذراً، حدث خطأ أثناء معالجة طلبك. يرجى المحاولة مرة أخرى.</string>
+</resources>
